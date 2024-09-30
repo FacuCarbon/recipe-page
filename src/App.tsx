@@ -2,7 +2,7 @@ import Omelette from "./components/omelette/Omelette";
 
 function App() {
   return (
-    <main>
+    <main className="md:max-w-4xl bg-white md:rounded-2xl md:mt-3 md:p-3">
       <Omelette />
       <footer className="mt-4 p-3 bg-slate-500 text-white flex flex-col">
         <div className="w-full flex justify-center p-2 items-center">
