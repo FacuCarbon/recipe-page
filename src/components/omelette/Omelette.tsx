@@ -6,7 +6,7 @@ import TimePreparation from "./Time-preparation";
 
 const Omelette = () => {
   return (
-    <div className="md:pt-5 md:pb-7 md:pl-14 md:pr-14">
+    <div className="md:pt-7 md:pb-7 md:pl-14 md:pr-14">
       <figure className="flex justify-center ">
         <img
           className="w-full md:rounded-2xl aspect-auto"
