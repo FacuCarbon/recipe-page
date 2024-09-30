@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/omelette/ingredients.tsx","./src/components/omelette/instructions.tsx","./src/components/omelette/nutrition.tsx","./src/components/omelette/omelette.tsx","./src/components/omelette/time-preparation.tsx"],"version":"5.6.2"}
